@@ -1,0 +1,23 @@
+*
+{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#vcty
+{
+    font-family: 'Lato', sans-serif;
+    color:rgb(28, 214, 214);
+}
+footer {
+    background-color: black;
+    overflow: hidden;
+}  
+
+footer a {
+    text-decoration: darkkhaki;
+    padding:20px;
+    color:darkgrey;
+    text-align: center;
+    float: left;
+} 
